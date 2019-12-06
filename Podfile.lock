@@ -1,0 +1,16 @@
+PODS:
+  - DatePickerDialog (2.0)
+
+DEPENDENCIES:
+  - DatePickerDialog
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - DatePickerDialog
+
+SPEC CHECKSUMS:
+  DatePickerDialog: 5e1c24d9fe6506cd45dbc573eed7b0a251b1c09d
+
+PODFILE CHECKSUM: 666abce26eacf2ec65280efdd7b1fdb974e738ee
+
+COCOAPODS: 1.5.0
